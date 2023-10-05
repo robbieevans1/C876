@@ -1,0 +1,6 @@
+﻿  Restaurant.cpp
+  RestaurantReviewApp.cpp
+  Reviews.cpp
+C:\Users\rober\source\repos\TestConsoleApp\TestConsoleApp\Reviews.cpp(43,24): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+  TestConsoleApp.vcxproj -> C:\Users\rober\source\repos\TestConsoleApp\x64\Debug\TestConsoleApp.exe
